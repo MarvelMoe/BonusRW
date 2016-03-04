@@ -45,5 +45,5 @@ function twentyFour() {
     
 }
 
-document.getElementById("time").addEventListener("mouseover", twentyFour)
+document.getElementById("time").addEventListener("mouseenter", twentyFour)
 
